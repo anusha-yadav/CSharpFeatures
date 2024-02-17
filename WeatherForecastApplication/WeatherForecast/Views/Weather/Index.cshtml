@@ -1,0 +1,93 @@
+﻿@model List<WeatherInfo>
+@{
+    ViewData["Title"] = "Weather Forecast";
+}
+<link href="~/lib/chosen/chosen.min.css" rel="stylesheet" />
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+<script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+<script src="~/lib/chosen/chosen.jquery.min.js"></script>
+<script src="~/js/signalr/dist/browser/signalr.min.js"></script>
+
+
+
+<div class="container mt-5">
+    <h2>WEATHER FORECAST</h2>
+    <div class="float-end mb-3">
+        <label for="cityInput" class="text-black"><b>Enter City:</b></label>
+        <select id="cities" class="chosen-container-multi">
+            <option value="--Select a City--">--Select a City--</option>
+        </select>
+        <button id="getWeatherBtn" class="btn btn-primary">Get Weather</button>
+    </div>
+</div>
+
+
+<div class="cards">
+@Html.Partial("_Weather")
+</div>
+
+
+@section scripts {
+    <script>
+        $(document).ready(function (){
+            $(".cards").hide();
+            
+            var results = $.getJSON("Weather/GetCities", function (data) {
+                console.log(data)
+                for (var i = 0; i < data.length; i++) {
+                    $("#cities").append('<option value="' + data[i].city + '">' + data[i].city + '</option');
+                }
+            });
+
+            $("#getWeatherBtn").on("click", function () {
+                $(".cards").toggle();
+                debugger
+                var selectedCityId = $("#cities").val();
+                $.ajax({
+                    url: '/Weather/GetWeatherForecast',
+                    type: 'POST',
+                    data: { city: selectedCityId },
+                    success: function (data) {
+                    },
+                    error: function () {
+                        console.error('Failed to get weather data.');
+                    }
+                });
+            });
+
+            debugger
+        });
+
+        var connection = new signalR.HubConnectionBuilder()
+            .withUrl("/weatherHub")
+            .build();
+
+        connection.start().then(function () {
+            debugger
+            console.log("SignalR connected");
+        })
+        .catch(function (err) {
+            return console.error(err.toString());
+        });
+
+
+        connection.on("RecieveWeatherUpdate", function (cityName, temperature) {
+            debugger
+            for (var i = 0; i < temperature.length; i++) {
+                var data = temperature[i];
+                $("#lblCity_" + i).text(cityName);
+                $("#lblDay_" + i).text(data.day);
+                $("#lblDate_" + i).text(data.date);
+
+
+                console.log($("#lblCity_" + i).text(cityName).val())
+                $("#lblTemp_" + i).text(Number(data.temperature - 273.15).toFixed(1));
+                var correctedIcon = data.icon.replace('n', 'd');
+                console.log(correctedIcon)
+                $("#imgWeatherIconUrl_" + i).attr("src", 'http://openweathermap.org/img/wn/' + correctedIcon + '.png');
+            }
+        });
+
+    </script>
+}

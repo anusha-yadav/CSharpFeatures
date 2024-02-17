@@ -1,0 +1,13 @@
+C:\Users\Anusha Yadav\source\repos\CSharpFeatures\CSharp-8\bin\Release\netcoreapp3.1\CSharp-8.exe
+C:\Users\Anusha Yadav\source\repos\CSharpFeatures\CSharp-8\bin\Release\netcoreapp3.1\CSharp-8.deps.json
+C:\Users\Anusha Yadav\source\repos\CSharpFeatures\CSharp-8\bin\Release\netcoreapp3.1\CSharp-8.runtimeconfig.json
+C:\Users\Anusha Yadav\source\repos\CSharpFeatures\CSharp-8\bin\Release\netcoreapp3.1\CSharp-8.runtimeconfig.dev.json
+C:\Users\Anusha Yadav\source\repos\CSharpFeatures\CSharp-8\bin\Release\netcoreapp3.1\CSharp-8.dll
+C:\Users\Anusha Yadav\source\repos\CSharpFeatures\CSharp-8\bin\Release\netcoreapp3.1\CSharp-8.pdb
+C:\Users\Anusha Yadav\source\repos\CSharpFeatures\CSharp-8\obj\Release\netcoreapp3.1\CSharp-8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anusha Yadav\source\repos\CSharpFeatures\CSharp-8\obj\Release\netcoreapp3.1\CSharp-8.AssemblyInfoInputs.cache
+C:\Users\Anusha Yadav\source\repos\CSharpFeatures\CSharp-8\obj\Release\netcoreapp3.1\CSharp-8.AssemblyInfo.cs
+C:\Users\Anusha Yadav\source\repos\CSharpFeatures\CSharp-8\obj\Release\netcoreapp3.1\CSharp-8.csproj.CoreCompileInputs.cache
+C:\Users\Anusha Yadav\source\repos\CSharpFeatures\CSharp-8\obj\Release\netcoreapp3.1\CSharp-8.dll
+C:\Users\Anusha Yadav\source\repos\CSharpFeatures\CSharp-8\obj\Release\netcoreapp3.1\CSharp-8.pdb
+C:\Users\Anusha Yadav\source\repos\CSharpFeatures\CSharp-8\obj\Release\netcoreapp3.1\CSharp-8.genruntimeconfig.cache

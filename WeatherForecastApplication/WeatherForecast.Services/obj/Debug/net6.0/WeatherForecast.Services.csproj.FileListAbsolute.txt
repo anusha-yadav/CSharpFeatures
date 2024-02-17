@@ -1,0 +1,12 @@
+C:\Users\Anusha Yadav\source\repos\WeatherForecastApplication\WeatherForecast.Services\bin\Debug\net6.0\WeatherForecast.Services.deps.json
+C:\Users\Anusha Yadav\source\repos\WeatherForecastApplication\WeatherForecast.Services\bin\Debug\net6.0\WeatherForecast.Services.dll
+C:\Users\Anusha Yadav\source\repos\WeatherForecastApplication\WeatherForecast.Services\bin\Debug\net6.0\WeatherForecast.Services.pdb
+C:\Users\Anusha Yadav\source\repos\WeatherForecastApplication\WeatherForecast.Services\obj\Debug\net6.0\WeatherForecast.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anusha Yadav\source\repos\WeatherForecastApplication\WeatherForecast.Services\obj\Debug\net6.0\WeatherForecast.Services.AssemblyInfoInputs.cache
+C:\Users\Anusha Yadav\source\repos\WeatherForecastApplication\WeatherForecast.Services\obj\Debug\net6.0\WeatherForecast.Services.AssemblyInfo.cs
+C:\Users\Anusha Yadav\source\repos\WeatherForecastApplication\WeatherForecast.Services\obj\Debug\net6.0\WeatherForecast.Services.csproj.CoreCompileInputs.cache
+C:\Users\Anusha Yadav\source\repos\WeatherForecastApplication\WeatherForecast.Services\obj\Debug\net6.0\WeatherForecast.Services.dll
+C:\Users\Anusha Yadav\source\repos\WeatherForecastApplication\WeatherForecast.Services\obj\Debug\net6.0\refint\WeatherForecast.Services.dll
+C:\Users\Anusha Yadav\source\repos\WeatherForecastApplication\WeatherForecast.Services\obj\Debug\net6.0\WeatherForecast.Services.pdb
+C:\Users\Anusha Yadav\source\repos\WeatherForecastApplication\WeatherForecast.Services\obj\Debug\net6.0\ref\WeatherForecast.Services.dll
+C:\Users\Anusha Yadav\source\repos\WeatherForecastApplication\WeatherForecast.Services\obj\Debug\net6.0\WeatherForecast.Services.csproj.AssemblyReference.cache

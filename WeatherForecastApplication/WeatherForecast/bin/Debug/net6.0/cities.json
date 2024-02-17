@@ -1,0 +1,82 @@
+[
+  {
+    "city": "Tokyo",
+    "country": "Japan",
+    "population": 37435191,
+    "area_km2": 2190,
+    "latitude": 35.6895,
+    "longitude": 139.6917
+  },
+  {
+    "city": "Delhi",
+    "country": "India",
+    "population": 30290936,
+    "area_km2": 1484,
+    "latitude": 28.6139,
+    "longitude": 77.2090
+  },
+  {
+    "city": "Shanghai",
+    "country": "China",
+    "population": 27058479,
+    "area_km2": 6340,
+    "latitude": 31.2304,
+    "longitude": 121.4737
+  },
+  {
+    "city": "São Paulo",
+    "country": "Brazil",
+    "population": 22089001,
+    "area_km2": 1521,
+    "latitude": -23.5505,
+    "longitude": -46.6333
+  },
+  {
+    "city": "Mumbai",
+    "country": "India",
+    "population": 23355000,
+    "area_km2": 603,
+    "latitude": 19.0760,
+    "longitude": 72.8777
+  },
+  {
+    "city": "Istanbul",
+    "country": "Turkey",
+    "population": 15469504,
+    "area_km2": 5461,
+    "latitude": 41.0082,
+    "longitude": 28.9784
+  },
+  {
+    "city": "Lahore",
+    "country": "Pakistan",
+    "population": 13035100,
+    "area_km2": 1772,
+    "latitude": 31.5497,
+    "longitude": 74.3436
+  },
+  {
+    "city": "Kinshasa",
+    "country": "Democratic Republic of the Congo",
+    "population": 14950000,
+    "area_km2": 9965,
+    "latitude": -4.4419,
+    "longitude": 15.2663
+  },
+  {
+    "city": "London",
+    "country": "United Kingdom",
+    "population": 9304016,
+    "area_km2": 1572,
+    "latitude": 51.5099,
+    "longitude": -0.1180
+  },
+  {
+    "city": "New York City",
+    "country": "United States",
+    "population": 8398748,
+    "area_km2": 468.9,
+    "latitude": 40.7128,
+    "longitude": -74.0060
+  }
+]

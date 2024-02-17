@@ -8,18 +8,35 @@ namespace CSharp_9.PatternMatching
 {
     public class TypePattern
     {
-        object shape = new Square { Length = 5 };
-
-        public void IsShapeSquare(object shape)
+        public string GetShapeInfo(Shape shape)
         {
-            if(shape is Square)
+            string info = shape switch
             {
-                Console.WriteLine($"{shape} is a square");
+                Circle circle when circle.Radius > 0 => $"Circle with radius {circle.Radius}",
+                Square square when square.SideLength > 0 => $"Square with side length {square.SideLength}",
+                _ => "Unknown shape"
+            };
+            return info;
+        }
+
+        // Before versions
+        public string GetShape(Shape shape)
+        {
+            string info;
+            if (shape is Circle circle && circle.Radius > 0)
+            {
+                info = $"Circle with radius {circle.Radius}";
+            }
+            else if (shape is Square square && square.SideLength > 0)
+            {
+                info = $"Square with side length {square.SideLength}";
             }
             else
             {
-                Console.WriteLine($"{shape} is not a square");
+                info = "Unknown shape";
             }
+            return info;
         }
+
     }
 }

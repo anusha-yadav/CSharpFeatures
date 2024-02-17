@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "+fs0PQ/DcDozG4MHoq6LQ2D6luJORejoD9xIWpP6WtziMkHyvTU9cm0pNU9wGXwm5D8eclQDPgJAg+2zAz3csA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Anusha Yadav\\source\\repos\\Test\\Test\\Test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Anusha Yadav\\.nuget\\packages\\system.configuration.configurationmanager\\8.0.0\\system.configuration.configurationmanager.8.0.0.nupkg.sha512",
+    "C:\\Users\\Anusha Yadav\\.nuget\\packages\\system.security.cryptography.protecteddata\\8.0.0\\system.security.cryptography.protecteddata.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

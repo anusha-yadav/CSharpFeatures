@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HLrZPB/1sY+FbnHyvGQEtcPHRqIX/EsGXXQWdLlR1TcEN6GPSWEblKu3DnEVxE8b9/bTUf8Skn+cUEApaLam0w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Anusha Yadav\\source\\repos\\ImageProcessing\\ImageProcessing\\ImageProcessing.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Anusha Yadav\\.nuget\\packages\\sixlabors.imagesharp\\3.1.2\\sixlabors.imagesharp.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

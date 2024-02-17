@@ -1,0 +1,7 @@
+// Validating benchmarks:
+// ***** BenchmarkRunner: Start   *****
+// ***** Found 3 benchmark(s) in total *****
+// ***** Building 1 exe(s) in Parallel: Start   *****
+// start dotnet  restore /p:UseSharedCompilation=false /p:BuildInParallel=false /m:1 /p:Deterministic=true /p:Optimize=true in C:\Users\Anusha Yadav\source\repos\CSharpFeatures\CSharp-9\bin\Release\net5.0\0a5a55d4-5fe1-4a1f-a2e1-07de24d2f021
+// command took 2.23 sec and exited with 0
+// start dotnet  build -c Release --no-restore /p:UseSharedCompilation=false /p:BuildInParallel=false /m:1 /p:Deterministic=true /p:Optimize=true in C:\Users\Anusha Yadav\source\repos\CSharpFeatures\CSharp-9\bin\Release\net5.0\0a5a55d4-5fe1-4a1f-a2e1-07de24d2f021

@@ -8,7 +8,7 @@ namespace CSharp_9.SwitchCase
 {
     public class Test
     {
-        public string GetExperienceLevelCSharp9(int exp)
+        public string GetExperienceLevel(int exp)
         {
             string result = exp switch
             {
@@ -17,6 +17,27 @@ namespace CSharp_9.SwitchCase
                 > 2 and <= 5 => "Intermediate",
                 _ => "Expert"
             };
+            return result;
+        }
+
+        public string GetExperienceLevelWithCases(int exp)
+        {
+            string result;
+            switch (exp)
+            {
+                case 0:
+                    result = "Fresher";
+                    break;
+                case > 0 and <= 2:
+                    result = "Beginner";
+                    break;
+                case > 2 and <= 5:
+                    result = "Intermediate";
+                    break;
+                default:
+                    result = "Expert";
+                    break;
+            }
             return result;
         }
     }

@@ -1,0 +1,38 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+    margin-bottom: 60px;
+    background-image: url('/images/background1.jpg');
+    background-size: cover; 
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+    margin: 0; /* Remove default body margin */
+    padding: 0;
+    color:white;
+}
+
+.cards {
+    padding-top: 82px;
+    margin-left: 92px;
+}
+
+.template {
+    background-color: #365ca3;
+}
+
+.card-body{
+    padding-top:70px;
+}

@@ -1,0 +1,14 @@
+C:\Users\Anusha Yadav\source\repos\CSharpFeatures\CSharp-10\bin\Release\net6.0\CSharp-10.exe
+C:\Users\Anusha Yadav\source\repos\CSharpFeatures\CSharp-10\bin\Release\net6.0\CSharp-10.deps.json
+C:\Users\Anusha Yadav\source\repos\CSharpFeatures\CSharp-10\bin\Release\net6.0\CSharp-10.runtimeconfig.json
+C:\Users\Anusha Yadav\source\repos\CSharpFeatures\CSharp-10\bin\Release\net6.0\CSharp-10.dll
+C:\Users\Anusha Yadav\source\repos\CSharpFeatures\CSharp-10\bin\Release\net6.0\CSharp-10.pdb
+C:\Users\Anusha Yadav\source\repos\CSharpFeatures\CSharp-10\obj\Release\net6.0\CSharp-10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anusha Yadav\source\repos\CSharpFeatures\CSharp-10\obj\Release\net6.0\CSharp-10.AssemblyInfoInputs.cache
+C:\Users\Anusha Yadav\source\repos\CSharpFeatures\CSharp-10\obj\Release\net6.0\CSharp-10.AssemblyInfo.cs
+C:\Users\Anusha Yadav\source\repos\CSharpFeatures\CSharp-10\obj\Release\net6.0\CSharp-10.csproj.CoreCompileInputs.cache
+C:\Users\Anusha Yadav\source\repos\CSharpFeatures\CSharp-10\obj\Release\net6.0\CSharp-10.dll
+C:\Users\Anusha Yadav\source\repos\CSharpFeatures\CSharp-10\obj\Release\net6.0\refint\CSharp-10.dll
+C:\Users\Anusha Yadav\source\repos\CSharpFeatures\CSharp-10\obj\Release\net6.0\CSharp-10.pdb
+C:\Users\Anusha Yadav\source\repos\CSharpFeatures\CSharp-10\obj\Release\net6.0\CSharp-10.genruntimeconfig.cache
+C:\Users\Anusha Yadav\source\repos\CSharpFeatures\CSharp-10\obj\Release\net6.0\ref\CSharp-10.dll
