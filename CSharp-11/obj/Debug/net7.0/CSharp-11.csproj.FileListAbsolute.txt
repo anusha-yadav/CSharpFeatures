@@ -1,0 +1,14 @@
+C:\Users\Anusha Yadav\source\repos\CSharpFeatures\CSharp-11\bin\Debug\net7.0\CSharp-11.exe
+C:\Users\Anusha Yadav\source\repos\CSharpFeatures\CSharp-11\bin\Debug\net7.0\CSharp-11.deps.json
+C:\Users\Anusha Yadav\source\repos\CSharpFeatures\CSharp-11\bin\Debug\net7.0\CSharp-11.runtimeconfig.json
+C:\Users\Anusha Yadav\source\repos\CSharpFeatures\CSharp-11\bin\Debug\net7.0\CSharp-11.dll
+C:\Users\Anusha Yadav\source\repos\CSharpFeatures\CSharp-11\bin\Debug\net7.0\CSharp-11.pdb
+C:\Users\Anusha Yadav\source\repos\CSharpFeatures\CSharp-11\obj\Debug\net7.0\CSharp-11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anusha Yadav\source\repos\CSharpFeatures\CSharp-11\obj\Debug\net7.0\CSharp-11.AssemblyInfoInputs.cache
+C:\Users\Anusha Yadav\source\repos\CSharpFeatures\CSharp-11\obj\Debug\net7.0\CSharp-11.AssemblyInfo.cs
+C:\Users\Anusha Yadav\source\repos\CSharpFeatures\CSharp-11\obj\Debug\net7.0\CSharp-11.csproj.CoreCompileInputs.cache
+C:\Users\Anusha Yadav\source\repos\CSharpFeatures\CSharp-11\obj\Debug\net7.0\CSharp-11.dll
+C:\Users\Anusha Yadav\source\repos\CSharpFeatures\CSharp-11\obj\Debug\net7.0\refint\CSharp-11.dll
+C:\Users\Anusha Yadav\source\repos\CSharpFeatures\CSharp-11\obj\Debug\net7.0\CSharp-11.pdb
+C:\Users\Anusha Yadav\source\repos\CSharpFeatures\CSharp-11\obj\Debug\net7.0\CSharp-11.genruntimeconfig.cache
+C:\Users\Anusha Yadav\source\repos\CSharpFeatures\CSharp-11\obj\Debug\net7.0\ref\CSharp-11.dll

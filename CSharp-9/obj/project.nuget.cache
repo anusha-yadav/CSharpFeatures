@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "H9FySUudpfr3sixVxs0UfQqoRj8OxRRVYLw99LJ9Sz3298MGNdMy17wumpiatW9r1QixwjIIQoR8GvRnfnWYtg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Anusha Yadav\\source\\repos\\CSharpFeatures\\CSharp-9\\CSharp-9.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Anusha Yadav\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Anusha Yadav\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Anusha Yadav\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Anusha Yadav\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
