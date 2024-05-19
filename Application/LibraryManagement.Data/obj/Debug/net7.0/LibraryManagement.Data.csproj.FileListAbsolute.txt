@@ -1,0 +1,14 @@
+C:\Users\Anusha Yadav\source\repos\Application\LibraryManagement.Data\bin\Debug\net7.0\LibraryManagement.Data.deps.json
+C:\Users\Anusha Yadav\source\repos\Application\LibraryManagement.Data\bin\Debug\net7.0\LibraryManagement.Data.runtimeconfig.json
+C:\Users\Anusha Yadav\source\repos\Application\LibraryManagement.Data\bin\Debug\net7.0\LibraryManagement.Data.dll
+C:\Users\Anusha Yadav\source\repos\Application\LibraryManagement.Data\bin\Debug\net7.0\LibraryManagement.Data.pdb
+C:\Users\Anusha Yadav\source\repos\Application\LibraryManagement.Data\obj\Debug\net7.0\LibraryManagement.Data.csproj.AssemblyReference.cache
+C:\Users\Anusha Yadav\source\repos\Application\LibraryManagement.Data\obj\Debug\net7.0\LibraryManagement.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anusha Yadav\source\repos\Application\LibraryManagement.Data\obj\Debug\net7.0\LibraryManagement.Data.AssemblyInfoInputs.cache
+C:\Users\Anusha Yadav\source\repos\Application\LibraryManagement.Data\obj\Debug\net7.0\LibraryManagement.Data.AssemblyInfo.cs
+C:\Users\Anusha Yadav\source\repos\Application\LibraryManagement.Data\obj\Debug\net7.0\LibraryManagement.Data.csproj.CoreCompileInputs.cache
+C:\Users\Anusha Yadav\source\repos\Application\LibraryManagement.Data\obj\Debug\net7.0\LibraryManagement.Data.dll
+C:\Users\Anusha Yadav\source\repos\Application\LibraryManagement.Data\obj\Debug\net7.0\refint\LibraryManagement.Data.dll
+C:\Users\Anusha Yadav\source\repos\Application\LibraryManagement.Data\obj\Debug\net7.0\LibraryManagement.Data.pdb
+C:\Users\Anusha Yadav\source\repos\Application\LibraryManagement.Data\obj\Debug\net7.0\LibraryManagement.Data.genruntimeconfig.cache
+C:\Users\Anusha Yadav\source\repos\Application\LibraryManagement.Data\obj\Debug\net7.0\ref\LibraryManagement.Data.dll

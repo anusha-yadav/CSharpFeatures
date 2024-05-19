@@ -1,0 +1,57 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+<button id="startButton">Start Voice Recognition</button>
+
+<div id="recognizedTextContainer">
+    <p>Recognized Text: <span id="recognizedText"></span></p>
+</div>
+
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+
+<script>
+$(document).ready(function () {
+        if ('SpeechRecognition' in window || 'webkitSpeechRecognition' in window) {
+            const recognition = new (window.SpeechRecognition || window.webkitSpeechRecognition)();
+
+            // Configure recognition settings
+            recognition.continuous = true;
+            recognition.interimResults = true;
+            recognition.lang = 'en-US'; // Set the language
+
+            recognition.onresult = function (event) {
+                const transcripts = event.results && event.results[0] && event.results[0][0] && event.results[0][0].transcript || '';
+                const recognizedTextContainer = document.getElementById('recognizedText');
+                recognizedTextContainer.innerText = transcripts;
+                console.log('Recognized Text:', transcripts);
+
+                $.ajax({
+                    type: 'POST',
+                    url: '/Home/VoiceToText',
+                    data: { transcript: transcripts },
+                    success: function (response) {
+                        console.log('Server response:', response);
+                    },
+                    error: function (error) {
+                        console.error('Error sending data to the server:', error);
+                    }
+                });
+            };
+            recognition.onerror = function (event) {
+                console.error('Speech Recognition Error:', event.error);
+            };
+            document.getElementById('startButton').addEventListener('click', function () {
+                recognition.start();
+            });
+        } else {
+            console.error('Speech Recognition not supported in this browser.');
+        }
+    });
+</script>
+
+

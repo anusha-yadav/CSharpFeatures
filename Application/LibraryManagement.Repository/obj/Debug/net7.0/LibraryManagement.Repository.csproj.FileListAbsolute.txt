@@ -1,0 +1,15 @@
+C:\Users\Anusha Yadav\source\repos\Application\LibraryManagement.Repository\bin\Debug\net7.0\LibraryManagement.Repository.deps.json
+C:\Users\Anusha Yadav\source\repos\Application\LibraryManagement.Repository\bin\Debug\net7.0\LibraryManagement.Repository.dll
+C:\Users\Anusha Yadav\source\repos\Application\LibraryManagement.Repository\bin\Debug\net7.0\LibraryManagement.Repository.pdb
+C:\Users\Anusha Yadav\source\repos\Application\LibraryManagement.Repository\bin\Debug\net7.0\LibraryManagement.Data.dll
+C:\Users\Anusha Yadav\source\repos\Application\LibraryManagement.Repository\bin\Debug\net7.0\LibraryManagement.Data.pdb
+C:\Users\Anusha Yadav\source\repos\Application\LibraryManagement.Repository\obj\Debug\net7.0\LibraryManagement.Repository.csproj.AssemblyReference.cache
+C:\Users\Anusha Yadav\source\repos\Application\LibraryManagement.Repository\obj\Debug\net7.0\LibraryManagement.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anusha Yadav\source\repos\Application\LibraryManagement.Repository\obj\Debug\net7.0\LibraryManagement.Repository.AssemblyInfoInputs.cache
+C:\Users\Anusha Yadav\source\repos\Application\LibraryManagement.Repository\obj\Debug\net7.0\LibraryManagement.Repository.AssemblyInfo.cs
+C:\Users\Anusha Yadav\source\repos\Application\LibraryManagement.Repository\obj\Debug\net7.0\LibraryManagement.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Anusha Yadav\source\repos\Application\LibraryManagement.Repository\obj\Debug\net7.0\LibraryManagement.Repository.csproj.CopyComplete
+C:\Users\Anusha Yadav\source\repos\Application\LibraryManagement.Repository\obj\Debug\net7.0\LibraryManagement.Repository.dll
+C:\Users\Anusha Yadav\source\repos\Application\LibraryManagement.Repository\obj\Debug\net7.0\refint\LibraryManagement.Repository.dll
+C:\Users\Anusha Yadav\source\repos\Application\LibraryManagement.Repository\obj\Debug\net7.0\LibraryManagement.Repository.pdb
+C:\Users\Anusha Yadav\source\repos\Application\LibraryManagement.Repository\obj\Debug\net7.0\ref\LibraryManagement.Repository.dll
