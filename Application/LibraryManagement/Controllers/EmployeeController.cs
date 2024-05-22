@@ -25,7 +25,7 @@ namespace LibraryManagement.Controllers
             return await Task.FromResult(EmployeeRepository.GetEmployeeDetails());
         }
 
-        [Authorize(Roles ="Employee")]
+        [Authorize(Roles ="Admin")]
         [HttpGet("{id}")]
         public async Task<ActionResult<Employee>> Get(int id)
         {
